@@ -1,0 +1,46 @@
+.navbar{
+    color:#ffffff;
+    font-size: 26px;
+    font-style: bree serif;
+}
+#color{
+    color: rgb(84, 231, 236);
+    font-style: bree serif;
+}
+.brand_image{
+    height: 80px;
+    width: 80px;
+    background-size: cover;
+    border-radius: 40px;
+}
+.body_content-container{
+    background-image: url("https://img.freepik.com/premium-photo/bookworms-haven-flat-lay-illustration-generative-ai_549702-707.jpg");
+    /* background-image: radial-gradient(#7c0101ba, #ffc33880); */
+    background-size: cover;
+    color: #ffffff;
+    padding: 10px;
+    height: 100vh;
+    
+    text-align: center;
+    background-color: #ffda4580;
+}
+p{
+    font-size: 20px;
+}
+.brand_image1{
+    height: 400px;
+    width: 350px; 
+    background-size: cover;
+    border-radius: 50px;
+    padding: 10px;
+    /* background-image: radial-gradient(#aecdfaba, #ffe5aa80); */
+    background-color: rgb(84, 231, 236);
+}
+.contact_me{
+    padding: 8px;
+    border-width: 0px;
+    background-color: rgb(53, 117, 255);
+    font-size: 20px;
+    color: rgb(255, 212, 147);
+    border-radius: 8px;
+}
