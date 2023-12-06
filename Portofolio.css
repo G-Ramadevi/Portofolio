@@ -27,6 +27,13 @@
 p{
     font-size: 20px;
 }
+#tag{
+    background-color: rgba(199, 155, 237, 0.624);
+    border-radius: 20px;
+    padding: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
 .brand_image1{
     height: 400px;
     width: 350px; 
