@@ -20,6 +20,13 @@ h3{
     color: #cced00;
     font-weight: bold;
 }
+#tag{
+    background-color: rgba(199, 155, 237, 0.624);
+    border-radius: 20px;
+    padding: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
 p{
     color: rgb(106, 112, 110);
     font-size: 20px;
