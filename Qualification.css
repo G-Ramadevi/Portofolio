@@ -1,0 +1,118 @@
+.container-fluid{
+    background-image: url("https://img.freepik.com/free-photo/pencils-pens-space_23-2147662342.jpg?w=740&t=st=1701797088~exp=1701797688~hmac=707afe809453d7a3879358809683c27c3d01171adadb73342a2d29c0065f8316");
+    /* background-image: url("https://img.freepik.com/premium-photo/top-view-creative-flat-lay-black-table-with-camera-stationery-copy-space_67155-14325.jpg?w=740"); */
+    background-size:cover;
+    /* margin-bottom: 10px; */
+    /* margin:10px; */
+    min-width:500px;
+    padding-bottom:50px;
+}
+.img{
+    padding:5px;
+    padding-top:35px;
+    padding-bottom:40px;
+    background-image: url('https://www.pngkit.com/png/detail/19-190665_book-icon-png-open-book-png-transparent.png');
+    background-size:cover;
+    /* margin-left:10px;
+    margin-top: 50px;
+    margin-right: 20px; */
+    padding-left:50px;
+    overflow: auto;
+    height:95vh;
+    width:100%;
+    /* max-height:400px;
+    min-width:300px; */
+    
+}
+/*img1{
+    height:80vh;
+    width:100%;
+    margin-left:10px;
+    margin-top: 50px;
+    margin-right: 20px;
+    background-size: cover;
+    /* border-radius: 10px; */
+h3{
+    font-family:"bree serif";
+    color:#7b8794;
+    font-size: 20px;
+    margin-left:10px;
+}
+u{
+    color:#ebc334;
+    font-weight: bold;
+}
+.header{
+    color:#121314;
+}
+.main-heading{
+     color:#047fcc;
+     font-size:30px;
+     font-weight: bold;
+}
+h2{
+    font-size:19px;
+}
+@media screen and (min-width:678px){
+    .img{
+        padding:5px;
+        padding-top:50px;
+        padding-bottom:50px;
+        margin-left:10px;
+        margin-top: 50px;
+        margin-right: 20px;
+        padding-left:60px;
+        overflow: auto;
+        min-height:500px;
+        min-width:600px;
+    }
+    h3{
+        font-size:35px;
+        font-family:"bree serif";
+        margin-left:20px;
+    }
+    h2{
+        font-family:"Roboto";
+        font-size:40px;
+    }
+    .main-heading{
+     color:#09baa090;
+     font-size:50px;
+     font-weight: 700;
+}
+}
+.innerclass{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+@media screen and (min-width:678px){
+    .img{
+        padding:5px;
+        padding-top:50px;
+        padding-bottom:50px;
+        margin:50px;
+        margin-top: 70px;
+        margin-right: 20px;
+        padding-left:70px;
+        overflow: auto;
+        max-height:600px;
+        min-width:800px;
+    }
+    h3{
+        font-size:20px;
+        font-family:"bree serif";
+        margin-left:20px;
+    }
+    h2{
+        font-family:"Roboto";
+        font-size:20px;
+    }
+    .main-heading{
+     color:#00b5c2;
+     font-size:50px;
+     font-weight: 700;
+    }
+    .header{
+        font-size:20px;
+    }
+}
